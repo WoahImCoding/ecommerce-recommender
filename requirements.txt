@@ -1,0 +1,7 @@
+pandas
+duckdb
+pyarrow
+kaggle
+jupyter
+ipykernel
+matplotlib

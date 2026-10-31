@@ -1,0 +1,10 @@
+# Project-specific
+data/
+kaggle.json
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
