@@ -172,4 +172,4 @@ Tests: `python -m pytest -q` (5 tests). A `Dockerfile` is included for container
 
 ---
 
-**Author:** Aparna Ramesh · [LinkedIn](https://linkedin.com/in/your-profile)
+**Author:** Aparna Ramesh · [LinkedIn](https://www.linkedin.com/in/aparna-ramesh-/)
