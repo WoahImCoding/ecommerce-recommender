@@ -5,3 +5,5 @@ kaggle
 jupyter
 ipykernel
 matplotlib
+Fastapi
+uvicorn[standard]
