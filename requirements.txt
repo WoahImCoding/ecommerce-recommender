@@ -7,3 +7,6 @@ ipykernel
 matplotlib
 Fastapi
 uvicorn[standard]
+pytest
+httpx
+pyarrow
